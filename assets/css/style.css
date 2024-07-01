@@ -1,0 +1,61 @@
+header {
+   background-image: url("../img/header.png");
+   height: 40rem;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+strong {
+   color: #28A745;
+   font-size: 1.25rem;
+}
+
+@media (max-width: 768px) {
+   header {
+      background-size: contain;
+      height: 10.25rem;
+   }
+}
+
+footer {
+   background-color: #fff;
+   color: #707070;
+   padding: 1.5rem 0;
+   margin: 0;
+}
+
+p i {
+   color: #707070;
+}
+
+nav {
+   background-color: #28A745;
+   color: white;
+}
+
+nav i {
+   font-size: 1.5rem;
+}
+
+
+#aboutme {
+   width: 80%;
+   margin: 0 auto;
+}
+
+#subscribe {
+   background-color: #28A745;
+   color: white;
+}
+
+.card-img-top {
+   height: 15rem;
+   object-fit: cover;
+
+}
+
+.nav-bar,
+img {
+   height: 2rem;
+}
