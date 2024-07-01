@@ -1,3 +1,13 @@
+body {
+   font-family: "Roboto", sans-serif !important;
+   font-weight: 300 !important;
+   font-style: normal !important;
+}
+
+h2 {
+   font-weight: 500;
+}
+
 header {
    background-image: url("../img/header.png");
    height: 40rem;
